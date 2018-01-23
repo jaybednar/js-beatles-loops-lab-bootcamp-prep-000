@@ -5,3 +5,10 @@ function theBeatlesPlay(musicians, instruments) {
   }
   return combo;
 }
+
+function johnLennonFacts(facts) {
+  var i = 0;
+  while (i < johnLennonFacts.length - 1) {
+    facts[i]
+  }
+}
